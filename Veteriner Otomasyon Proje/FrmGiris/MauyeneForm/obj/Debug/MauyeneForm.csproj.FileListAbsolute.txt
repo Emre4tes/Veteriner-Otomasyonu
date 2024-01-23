@@ -1,0 +1,11 @@
+C:\Users\emrea\Desktop\Veteriner Otomasyon Proje\FrmGiris\MauyeneForm\obj\Debug\MauyeneForm.csproj.AssemblyReference.cache
+C:\Users\emrea\Desktop\Veteriner Otomasyon Proje\FrmGiris\MauyeneForm\obj\Debug\MauyeneForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\emrea\Desktop\Veteriner Otomasyon Proje\FrmGiris\MauyeneForm\obj\Debug\MauyeneForm.FrmMuayene.resources
+C:\Users\emrea\Desktop\Veteriner Otomasyon Proje\FrmGiris\MauyeneForm\obj\Debug\MauyeneForm.Properties.Resources.resources
+C:\Users\emrea\Desktop\Veteriner Otomasyon Proje\FrmGiris\MauyeneForm\obj\Debug\MauyeneForm.csproj.GenerateResource.cache
+C:\Users\emrea\Desktop\Veteriner Otomasyon Proje\FrmGiris\MauyeneForm\obj\Debug\MauyeneForm.csproj.CoreCompileInputs.cache
+C:\Users\emrea\Desktop\Veteriner Otomasyon Proje\FrmGiris\MauyeneForm\bin\Debug\MauyeneForm.exe.config
+C:\Users\emrea\Desktop\Veteriner Otomasyon Proje\FrmGiris\MauyeneForm\bin\Debug\MauyeneForm.exe
+C:\Users\emrea\Desktop\Veteriner Otomasyon Proje\FrmGiris\MauyeneForm\bin\Debug\MauyeneForm.pdb
+C:\Users\emrea\Desktop\Veteriner Otomasyon Proje\FrmGiris\MauyeneForm\obj\Debug\MauyeneForm.exe
+C:\Users\emrea\Desktop\Veteriner Otomasyon Proje\FrmGiris\MauyeneForm\obj\Debug\MauyeneForm.pdb

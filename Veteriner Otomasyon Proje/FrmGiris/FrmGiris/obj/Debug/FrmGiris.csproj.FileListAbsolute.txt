@@ -1,0 +1,11 @@
+C:\Users\emrea\Desktop\Veteriner Otomasyon Proje\FrmGiris\FrmGiris\bin\Debug\FrmGiris.exe.config
+C:\Users\emrea\Desktop\Veteriner Otomasyon Proje\FrmGiris\FrmGiris\bin\Debug\FrmGiris.exe
+C:\Users\emrea\Desktop\Veteriner Otomasyon Proje\FrmGiris\FrmGiris\bin\Debug\FrmGiris.pdb
+C:\Users\emrea\Desktop\Veteriner Otomasyon Proje\FrmGiris\FrmGiris\obj\Debug\FrmGiris.csproj.AssemblyReference.cache
+C:\Users\emrea\Desktop\Veteriner Otomasyon Proje\FrmGiris\FrmGiris\obj\Debug\FrmGiris.csproj.SuggestedBindingRedirects.cache
+C:\Users\emrea\Desktop\Veteriner Otomasyon Proje\FrmGiris\FrmGiris\obj\Debug\FrmGiris.Form1.resources
+C:\Users\emrea\Desktop\Veteriner Otomasyon Proje\FrmGiris\FrmGiris\obj\Debug\FrmGiris.Properties.Resources.resources
+C:\Users\emrea\Desktop\Veteriner Otomasyon Proje\FrmGiris\FrmGiris\obj\Debug\FrmGiris.csproj.GenerateResource.cache
+C:\Users\emrea\Desktop\Veteriner Otomasyon Proje\FrmGiris\FrmGiris\obj\Debug\FrmGiris.csproj.CoreCompileInputs.cache
+C:\Users\emrea\Desktop\Veteriner Otomasyon Proje\FrmGiris\FrmGiris\obj\Debug\FrmGiris.exe
+C:\Users\emrea\Desktop\Veteriner Otomasyon Proje\FrmGiris\FrmGiris\obj\Debug\FrmGiris.pdb
